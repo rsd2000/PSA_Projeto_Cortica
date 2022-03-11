@@ -3,9 +3,9 @@
 11 Março 2022
 
 Carlos Santos, 92955
-João Conceição, 
+João Conceição, 93439
 José Costa, 19178
-Luís Pacheco,
+Luís Pacheco, 49422
 Rodrigo Domingues, 92946
 
 Eplan 2.9 SP1 - Versão estudante
