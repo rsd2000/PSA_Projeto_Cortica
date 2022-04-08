@@ -29,3 +29,8 @@ Dataset nº 1 (números manuscritos- 10 imagens em que cada imagem contém núme
 Dataset nº 2 (cartas do jogo UNO- 800 imagens)
 Dataset nº 3 (mascaras na face -100 imagens)
 Dataset nº 4 (imagens diversas- 128 imagens)
+
+Luís Pacheco
+Pesquisa sobre controlo de motor de passo
+Escolha de componentes(Driver, Motor)
+
