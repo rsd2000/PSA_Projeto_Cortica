@@ -1,0 +1,27 @@
+<html>
+     <img src="https://plataforma9.com/upload/2015/08/uaveirop2.jpg"alt="Image" height="100" width="200">
+    <head><title>Web Page Controlled Stepper</title></head>
+    <body>
+    <h2> Web Page to Control Stepper</h2>
+        <form method="POST" action="test">
+            <h5> Use the slider to rotate Stepper Clockwise & Counter-Clockwise  </h5>
+	    <h5>    Clockwise <++++++++++++++++> Counter-Clockwise  </h5>
+            <div class="slidecontainer">
+               <p>Rotation <input type="range" min="1" max="20" value="10" class="slider" id="myRange">
+            <p>Value: <span id="demo"></span></p>
+    </div>
+
+   <script>
+	var slider = document.getElementById("myRange");
+	var output = document.getElementById("demo");
+	output.innerHTML = slider.value;
+
+	slider.oninput = function() {
+ 	 output.innerHTML = this.value;
+	}
+  </script>
+
+ 		<input type="submit" value="submit" />
+        </form>
+    </body>
+</html>
